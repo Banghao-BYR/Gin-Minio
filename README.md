@@ -1,2 +1,2 @@
-# gin-minio
-Use the Gin framework to operate Minio
+# Gin-Minio
+Operate minio in the gin framework written in golang
