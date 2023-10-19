@@ -1,0 +1,10 @@
+minio:
+  url: 139.159.251.101:9000
+  username: minioadmin
+  password: minioadmin
+mysql:
+  host: 127.0.0.1:3306
+  username: root
+  password: abcd1234
+  dbname: minchgo
+  config: charset=utf8&loc=Local&parseTime=true
